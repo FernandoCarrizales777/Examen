@@ -1,0 +1,5 @@
+ 14:55:32 up  1:06,  1 user,  load average: 0,73, 1,07, 0,83
+USER     TTY      DESDE            LOGIN@   IDLE   JCPU   PCPU WHAT
+luis     tty7     :0               13:49    1:06m  1:53   0.18s /usr/lib/x86_64-linux-gnu/cinnamon-session-binary --session cinnamon
+Empanada
+Linux Empanada 6.1.0-26-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.112-1 (2024-09-30) x86_64 GNU/Linux

@@ -1,0 +1,323 @@
+    1  apt-get install git
+    2  y
+    3  s
+    4  sudo apt-get install giyt
+    5  sudo apt-get install git
+    6  git --version
+    7  git config --global user.name "Luis Fernando Carrizales"
+    8  git config --global user.email "lcarrizalesh@unsa.edu.pe"
+    9  git config --global use.email
+   10  git --verisonm
+   11  git --version
+   12  nano ~/.gitcongi
+   13  git __version
+   14  git --version
+   15  history
+   16  sudo git config --global user.email "lcarrizalesh@unsa.edu.pe"
+   17  sudo git config --global user.name "Luis Fernando Carrizales Huacca"
+   18  git config --global user.name
+   19  git config --global user.email
+   20  git init
+   21  git status
+   22  git lñog
+   23  git log
+   24  git add
+   25  git commirt
+   26  git commit
+   27  git add 
+   28  git add Hola
+   29  git --version
+   30  git config --global user.email
+   31  git remote add origin https://gitlab.com/trabajo-computo/laboratorio-n01.git
+   32  git remote -v
+   33  git push origin master
+   34  git add -A
+   35  git commit -m "Buenos días mundo"
+   36  git add -A
+   37  git commit -m"a"
+   38  git push origin master
+   39  cd existing_repo
+   40  git remote add origin https://gitlab.com/trabajo-computo/laboratorio-n01.git
+   41  git branch -M main
+   42  git push -uf origin main
+   43  git branch -r
+   44  git push -uf orgin master
+   45  git push -uf origin  master
+   46  git branch
+   47  ls -a
+   48  git add .
+   49  git commit -m "primer commit"
+   50  touch archivo.txt
+   51  ls
+   52  git add
+   53  git add .
+   54  git commit -m "confimacion"
+   55  git push -u origin main
+   56  git pull origin main
+   57  bash
+   58  git init
+   59  git remote add origin https://gitlab.com/trabajo-computo/practica_computo.git
+   60  git add .
+   61  git commit -m "Primer commit"
+   62  git push -u origin main
+   63  echo "# Practica Computo" > README.md
+   64  git add README.md
+   65  git commit -m "Primer commit"
+   66  git push -u origin main
+   67  git push -u origin master
+   68  history
+   69  history > bitacora_comandos.txt
+   70  clear
+   71  git pull origin main
+   72  git pull origin main --alow-unrelated-histories
+   73  git pull origin main --allow-unrelated-histories
+   74  git status
+   75  history
+   76  history > historial_comando.txt
+   77  cd ruta/al/directorio
+   78  clear
+   79  mkdir Practica_Computo
+   80  cd Practica_Computo
+   81  bash git init
+   82  bash
+   83  git config pull.rebase false
+   84  bash
+   85  clear
+   86  cd
+   87  clear
+   88  home/luis
+   89  echo "hola mundo"
+   90  git --version
+   91  git add Ramirez/
+   92  git init
+   93  clear
+   94  pwd
+   95  ls
+   96  man ls
+   97  clear
+   98  cd Expedientes/Planilla
+   99  bash
+  100  cd Expedientes/Plantilla
+  101  a
+  102  s+
+  103  sdfasdfgjklasdfgjsdfglpsdfgh
+  104  clear
+  105  cd Expedientes/Plantilla
+  106  pwd
+  107  bahs
+  108  bash
+  109  historyu
+  110  history
+  111  pwd
+  112  man ls
+  113  clear
+  114  cd Expedientes/Planilla
+  115  bash
+  116  history
+  117  mkdir -p Expendientes/Planilla
+  118  cd
+  119  mkdir -p Expedientes/Plantilla
+  120  mkdir -p Expedientes/Software
+  121  mkdir -p Expedientes/Trabajos
+  122  mkdir -p Expedientes/Trabajos/Clases
+  123  mkdir -p Expedientes/Trabajos/Examenes
+  124  tree
+  125  cd Expedientes
+  126  tree
+  127  cat >> Expedientes/Planilla/file1.txt
+  128  cat > Expedientes/Planilla/file1.txt
+  129  mkdir Expedientes/Planilla/file1.txt
+  130  cat > Expedientes/Planilla/file1.txt
+  131  tree
+  132  ls
+  133  ls -l ~/Expedientes
+  134  cd ~/Expedientes
+  135  mv Plantilla Planilla
+  136  tree
+  137  ls -R ~/Expedientes
+  138  cat > Expedientes/Planilla/file1.txt
+  139  cat > Expedientes/Planilla/file1.txt/
+  140  clear
+  141  history
+  142  clear
+  143  cat > ~/Expedientes/Planilla/file1.txt
+  144  cd
+  145  cat > Expedientes/planilla/file2.txt
+  146  cat > /Expedientes/planilla/file2.txt
+  147  cd Expedientes
+  148  cat > /Expedientes/planilla/file2.txt
+  149  cat > ~/Expedientes/planilla/file2.txt
+  150  cat > ~/Expedientes/Planilla/file2.txt
+  151  cat > ~/Expedientes/Trabajos/Clases/clase01.txt
+  152  cat > ~/Expedientes/Trabajos/Clases/clase02.txt
+  153  cat > ~/Expedientes/Trabajos/Clases/msn.txt
+  154  cat > ~/Expedientes/Trabajos/Examenes/examen1.txt
+  155  cat > ~/Expedientes/Trabajos/Examenes/examen2.txt
+  156  cat > ~/Expedientes/Trabajos/Examenes/examen3.txt
+  157  tree
+  158  cd ~/Expedientes/Planilla/file1.txt ~/Expedientes/Software
+  159  cp ~/Expedientes/Planilla/file1.txt ~/Expedientes/Software
+  160  tree
+  161  cp ~/Expedientes/Planilla/file2.txt ~/Expedientes/Trabajos/Examenes
+  162  tree
+  163  ls
+  164  mv ~/Expedientes/Clases/clases01.txt ~/Expedientes/Clases/clasemartes.txt
+  165  tree
+  166  mv ~/Expedientes/Clases/clase01.txt ~/Expedientes/Clases/clasemartes.txt
+  167  cd
+  168  cd ~/Expedientes/Clases/
+  169  cd ~/Expedientes/Clases
+  170  cd Expedientes/Clases
+  171  cd ~/Expedientes/Clases
+  172  cd Expedientes
+  173  cd Clases
+  174  cd /Clases
+  175  cd
+  176  cd ~/Expedientes/Clases
+  177  cd ..
+  178  cd ~/Expedientes/Clases
+  179  cd ~
+  180  cd Expedientes
+  181  cd Clases
+  182  pwd
+  183  cd ~/Expedientes/Clases
+  184  ls ~/Expedientes
+  185  cd Trabajos
+  186  cd Clases
+  187  tree
+  188  mv clase01.txt clasemartes.txt
+  189  tree
+  190  cd ~
+  191  tree
+  192  cd ~/Expedientes
+  193  tree
+  194  cp ~/Expedientes/Trabajos/Examenes ~/Expedientes/Trabajos/Clases
+  195  mv ~/Expedientes/Trabajos/Examenes ~/Expedientes/Trabajos/Clases
+  196  tree
+  197  mv ~/Expedientes/Trabajos/Clases/msn.txt ~/Expedientes/Software
+  198  tree
+  199  rm -r ~/Expedientes/Software
+  200  tree
+  201  cd ~
+  202  mkdir Respaldo
+  203  tree
+  204  cp -r ~/Expedientes/Trabajos ~/Respaldo
+  205  cd Expedientes
+  206  tree
+  207  cd ~
+  208  cd Respaldo
+  209  tree
+  210  cd ~
+  211  cd EXPEDIENTES
+  212  cd Expedientes
+  213  tree
+  214  rm -r ~/Expedientes/Trabajos/Clases/clase02.txt
+  215  tree
+  216  ls -r
+  217  ls -R ~/Expedientes
+  218  ls -d ~/Expedientes ~/Expedientes/expedientearchivo.txt
+  219  ls -d ~/Expedientes/*/ ~/Expedientes/expedientearchivo.txt
+  220  ls -d ~/Expedientes/*/ > ~/Expedientes/expedientearchivo.txt
+  221  tree
+  222  cp ~/Expedientes/expedientearchivo.txt ~/Expedientes/Planilla
+  223  tree
+  224  nano ~/Expedientes/expedientearchivo.txt
+  225  tree
+  226  history > bitacora-evaluacion.txt
+  227  history
+  228  ls
+  229  cd Expedientes
+  230  ls
+  231  mkdir -p Expedientes/Planilla
+  232  bash
+  233  [200~sudo apt install curl
+  234  sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+  235  sudo apt install curl 
+  236  [200~sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+  237  sudo adduser gt
+  238  sudo adduser git
+  239  sudo mkdir -p /home/felix/examen01
+  240  sudo chown git:git /home/ felix/examen01
+  241  mkdir examen01
+  242  mkdir /home/felix/examen01
+  243  mkdir /home/felix/examen01/pregunta{01..10}
+  244  sudo mkdir /home/felix/examen01/pregunta{01..10}
+  245  sudo -1
+  246  cd /home/felix/examen01/pregunta{01..10}
+  247  cd home
+  248  cdc felix
+  249  cd
+  250  cd flix
+  251  cd felix
+  252  cd /home/felix
+  253  tree
+  254  cd examen01
+  255  cat > /pregunta01/PREGUNTA1
+  256  cat > pregunta01/PREGUNTA1
+  257  bash
+  258  cat > pregunta01/pregunta1.txt
+  259  sudo cat > pregunta01/pregunta1.txt
+  260  [200~cd /home/felix/examen01
+  261  ~cd /home/felix/examen01
+  262  cd /home/felix/examen01
+  263  ls -ld pregunta01
+  264  sudo chown luis:luis /home/felix/examen01/pregunta01
+  265  ls -ld pregunta91
+  266  ls -ld pregunta01
+  267  cat > pregunta01/pregunta1.txt
+  268  cat > pregunta01/pregunta2.txt
+  269  history
+  270  cd /home/felix/examen01
+  271  tree
+  272  cat > pregunta01/pregunta3.txt
+  273  cat > pregunta01/pregunta4.txt
+  274  cat > pregunta02/pregunta1.txt
+  275  ls -ld /home/felix/examen01/pregunta02
+  276  sudo chown -R luis:luis /home/felix/examen0
+  277  sudo chown -R luis:luis /home/felix/examen01
+  278  sudo chown -R luis:luis /home/felix/examen0
+  279  sudo chown -R luis:luis /home/felix/examen01
+  280  cat > pregunta02/pregunta1.txt
+  281  tree
+  282  cat > pregunta02/pregunta2.txt
+  283  cat > pregunta02/pregunta3.txt 
+  284  cat > pregunta02/pregunta4.txt
+  285  cat > pregunta02/pregunta5.txt
+  286  cat > pregunta03/pregunta1.txt
+  287  cat > pregunta03/pregunta2.txt
+  288  cat > pregunta03/pregunta3.txt
+  289  cat > pregunta03/pregunta4.txt
+  290  cat > pregunta03/pregunta5.txt 
+  291  cat > pregunta04/pregunta1.txt
+  292  cat > pregunta04/pregunta2.txt
+  293  cat > pregunta04/pregunta3.txt 
+  294  tree
+  295  cd /home/felix/examen01
+  296  tree
+  297  cat > pregunta05/pregunta1.txt
+  298  cat > pregunta05/pregunta2.txt
+  299  cat > pregunta05/pregunta3.txt
+  300  cat > pregunta06/pregunta1.txt
+  301  cat > pregunta06/pregunta2.txt 
+  302  cat > pregunta06/pregunta3.txt
+  303  tree
+  304  cat > pregunta07/pregunta1.txt
+  305  cat > pregunta07/pregunta2.txt
+  306  cat > pregunta07/pregunta3.txt
+  307  cat > pregunta08/pregunta1.txt
+  308  cat > pregunta08/pregunta2.txt
+  309  cat > pregunta08/pregunta3.txt
+  310  cat > pregunta09/pregunta1.txt
+  311  cat > pregunta09/pregunta2.txt
+  312  cat > pregunta09/pregunta3.txt
+  313  cat > pregunta10/pregunta1.txt
+  314  cat > pregunta10/pregunta2.txt
+  315  cat > pregunta10/pregunta3.txt
+  316  cat > pregunta10/pregunta4.txt
+  317  tree
+  318  git init
+  319  git add .
+  320  git commit -m "Primer commit: Subiendo las carpetas y archivos del examen"
+  321  git remote add origin https://github.com/FernandoCarrizales777/Examen.git
+  322  git push -u origin master
+  323  history > bitacora.txt
